@@ -1,0 +1,43 @@
+.body-top{
+    width: 100%;
+    border: none;
+    margin: auto;
+    text-align: center;
+}
+header{
+    padding: 1em;
+    color: white;
+    background-color: saddlebrown;
+    vertical-align: center;
+}
+.name{
+    margin: auto;
+    font-size: 6em;
+    color: cornsilk;
+    font-weight: 500;
+}
+.logo{
+    margin: auto;
+}
+.content{
+    height: 50em;
+    background: burlywood;
+}
+footer{
+    background: saddlebrown;
+}
+.menu{
+    background: peru;
+}
+.btn{
+    background: saddlebrown;
+    width: 10em;
+    height: 85%;
+    display: inline-block;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+    color: cornsilk;
+    border-radius: 10px;
+}
