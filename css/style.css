@@ -31,7 +31,8 @@ footer{
 }
 .btn{
     background: saddlebrown;
-    width: 12em;
+    width: 13em;
+    font-size: 1.2em;
     height: 85%;
     display: inline-block;
     margin-left: 2em;
@@ -40,4 +41,12 @@ footer{
     margin-bottom: 0.6em;
     color: cornsilk;
     border-radius: 10px;
+}
+.zagolovok{
+    font-size: 4em;
+}
+.about{
+    font-size: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
 }
