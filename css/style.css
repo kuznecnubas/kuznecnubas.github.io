@@ -50,3 +50,24 @@ footer{
     margin-left: 2em;
     margin-right: 2em;
 }
+#javaplay{
+    float: left;
+    padding-left: 5em;
+    padding-right: 5em;
+    width: 50%;
+}
+#bedrockplay{
+    float: right;
+    padding-left: 5em;
+    padding-right: 5em;
+    width: 50%;
+}
+.howToPlayZag{
+    font-size: 2.5em;
+}
+.howToPlayZag2{
+    font-size: 1.5em;
+}
+.howToPlayDesc{
+    font-size: 1.2em;
+}
