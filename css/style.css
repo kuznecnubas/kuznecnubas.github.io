@@ -1,3 +1,4 @@
+
 .body-top{
     width: 100%;
     border: none;
@@ -18,9 +19,10 @@ header{
 }
 .logo{
     margin: auto;
+    width: 10em;
 }
 .content{
-    height: 50em;
+    height: 120vh;
     background: burlywood;
 }
 footer{
@@ -71,3 +73,26 @@ footer{
 .howToPlayDesc{
     font-size: 1.2em;
 }
+
+@media screen and (width < 600px){
+    .name{
+        margin: auto;
+        font-size: 3em;
+        color: cornsilk;
+        font-weight: 500;
+    }
+    .logo{
+        margin: auto;
+        width: 8em;
+    }
+    .howToPlayZag{
+        font-size: 2em;
+    }
+    .howToPlayZag2{
+        font-size: 1em;
+    }
+    .howToPlayDesc{
+        font-size: 0.7em;
+    }
+}
+
